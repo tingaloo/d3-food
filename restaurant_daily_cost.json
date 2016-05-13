@@ -1,0 +1,13 @@
+[
+  {"date": "3/18", "cost": 46.62, "restaurant": "Mission BBQ"},
+  {"date": "3/25", "cost": 46.98, "restaurant": "La Madeleine"},
+  {"date": "3/28", "cost": 29.10, "restaurant": "Ledo's Pizza"},
+  {"date": "4/04", "cost": 34.47, "restaurant": "BGR"},
+  {"date": "4/08", "cost": 32.86, "restaurant": "Hunan Manor"},
+  {"date": "4/11", "cost": 38.97, "restaurant": "Ledo's Pizza"},
+  {"date": "4/18", "cost": 28.13, "restaurant": "Ledo's Pizza"},
+  {"date": "4/25", "cost": 29.17, "restaurant": "BGR"},
+  {"date": "4/29", "cost": 31.80, "restaurant": "Stanford Grill"},
+  {"date": "5/2",  "cost": 23.54, "restaurant": "Ledo's Pizza"},
+  {"date": "5/9",  "cost": 32.26, "restaurant": "Ledo's Pizza"}
+]

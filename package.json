@@ -1,0 +1,16 @@
+{
+  "name": "d3_food",
+  "version": "1.0.0",
+  "description": "A practice project using d3 and food!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.13.4",
+    "path": "^0.12.7"
+  }
+}
